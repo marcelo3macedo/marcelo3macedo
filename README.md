@@ -4,9 +4,14 @@
     </a> 
 </p>
 
-<h2> Marcelo Macedo
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Developer at <a href="http://gruponewway.com.br">New Way</a></p>
+<h2>Hi there 👋</h2>
+<h5>I'm a Full-Stack Developer working in São Paulo, Brazil.</h5>
+
+<h2>Bio</h2>
+<h5>🏢 I'm currently working at <a href="https://gruponewway.com.br">New Way</a></h5>
+<h5>⚙️ I use daily: NodeJS, Typescript, PHP, RabbitMQ, NestJS, Docker, MongoDB</h5>
+<h5>🌍 I'm mostly active within the NodeJS Community</h5>
+<h5>:car: Fun fact: I'm a huge fan of Formula 1</h5>
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=marcelo3macedo&amp;show_icons=true" alt="GitHub Stats"></p>
