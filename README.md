@@ -4,5 +4,9 @@
     </a> 
 </p>
 
+<h2> Marcelo Macedo
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Developer at <a href="http://gruponewway.com.br">New Way</a></p>
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=marcelo3macedo&amp;show_icons=true" alt="GitHub Stats"></p>
