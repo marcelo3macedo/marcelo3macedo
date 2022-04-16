@@ -5,13 +5,13 @@
 </p>
 
 <h2>Hi there 👋</h2>
-<h3>I'm a Full-Stack Developer working in São Paulo, Brazil.</h3>
+<h4>I'm a Full-Stack Developer working in São Paulo, Brazil.</h4>
 
 <h2>Bio</h2>
-<h3>🏢 I'm currently working at <a href="https://gruponewway.com.br">New Way</a></h3>
-<h3>⚙️ I use daily: NodeJS, Typescript, PHP, RabbitMQ, NestJS, Docker, MongoDB</h3>
-<h3>🌍 I'm mostly active within the NodeJS Community</h3>
-<h3>:car: Fun fact: I'm a huge fan of Formula 1</h3>
+<h4>🏢 I'm currently working at <a href="https://gruponewway.com.br">New Way</a></h4>
+<h4>⚙️ I use daily: NodeJS, Typescript, PHP, RabbitMQ, NestJS, Docker, MongoDB</h4>
+<h4>🌍 I'm mostly active within the NodeJS Community</h4>
+<h4>:car: Fun fact: I'm a huge fan of Formula 1</h4>
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=marcelo3macedo&amp;show_icons=true" alt="GitHub Stats"></p>
